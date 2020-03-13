@@ -4,7 +4,7 @@
 
 void main()
 	{
-		int n, sum=0'
+		int n, sum=0;
 	
 		printf("\n Enter Value of n: ");
 		scanf("%d", &n);
